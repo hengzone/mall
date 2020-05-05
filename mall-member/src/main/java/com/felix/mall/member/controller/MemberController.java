@@ -1,8 +1,8 @@
 package com.felix.mall.member.controller;
 
-import com.felix.mall.member.bean.UmsMember;
-import com.felix.mall.member.bean.UmsMemberReceiveAddress;
-import com.felix.mall.member.service.MemberService;
+import com.felix.mall.bean.UmsMember;
+import com.felix.mall.bean.UmsMemberReceiveAddress;
+import com.felix.mall.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

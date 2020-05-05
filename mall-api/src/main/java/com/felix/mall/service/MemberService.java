@@ -1,7 +1,7 @@
-package com.felix.mall.member.service;
+package com.felix.mall.service;
 
-import com.felix.mall.member.bean.UmsMember;
-import com.felix.mall.member.bean.UmsMemberReceiveAddress;
+import com.felix.mall.bean.UmsMember;
+import com.felix.mall.bean.UmsMemberReceiveAddress;
 
 import java.util.List;
 

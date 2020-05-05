@@ -1,4 +1,4 @@
-package com.felix.mall.member.bean;
+package com.felix.mall.bean;
 
 import lombok.Data;
 

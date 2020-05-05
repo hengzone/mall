@@ -1,10 +1,10 @@
 package com.felix.mall.member.service.impl;
 
-import com.felix.mall.member.bean.UmsMember;
-import com.felix.mall.member.bean.UmsMemberReceiveAddress;
+import com.felix.mall.bean.UmsMember;
+import com.felix.mall.bean.UmsMemberReceiveAddress;
 import com.felix.mall.member.mapper.MemberMapper;
 import com.felix.mall.member.mapper.UmsMemberReceiveAddressMapper;
-import com.felix.mall.member.service.MemberService;
+import com.felix.mall.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.entity.Example;
